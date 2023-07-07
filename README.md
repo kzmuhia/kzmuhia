@@ -2,7 +2,7 @@
 - 👀 I’m interested in kotlin, springboot,postgreSQL
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on nuturing developers
-- 📫 How to reach me [Twitter](https://twitter.com/kzmuhia)
+- 📫 How to reach me [Twitter](https://twitter.com/kzmuhia) or [Threads](https://www.threads.net/@kzmuhia)
 
 <!---
 kzmuhia/kzmuhia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
